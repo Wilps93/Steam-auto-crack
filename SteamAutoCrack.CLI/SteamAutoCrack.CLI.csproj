@@ -24,6 +24,7 @@
     <PackageReference Include="Serilog.Sinks.Console" Version="6.1.1" />
     <PackageReference Include="System.CommandLine" Version="2.0.0" />
     <PackageReference Include="System.IO.Packaging" Version="10.0.0" />
+    <PackageReference Include="Microsoft.WindowsDesktop.App.Fluent" Version="10.0.1" />
   </ItemGroup>
 
   <ItemGroup>
