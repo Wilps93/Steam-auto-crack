@@ -6,7 +6,7 @@
     <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Platforms>x64</Platforms>
+    <Platforms>x86</Platforms>
     <Version>3.5.0.2</Version>
     <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
     <ApplicationIcon>SteamAutoCrack.ico</ApplicationIcon>
@@ -22,9 +22,8 @@
     <PackageReference Include="Serilog" Version="4.3.0" />
     <PackageReference Include="Serilog.Expressions" Version="5.0.0" />
     <PackageReference Include="Serilog.Sinks.Console" Version="6.1.1" />
-    <PackageReference Include="System.CommandLine" Version="2.0.0" />
-    <PackageReference Include="System.IO.Packaging" Version="10.0.0" />
-    <PackageReference Include="Microsoft.WindowsDesktop.App.Fluent" Version="10.0.1" />
+    <PackageReference Include="System.CommandLine" Version="2.0.1" />
+    <PackageReference Include="System.IO.Packaging" Version="10.0.1" />
   </ItemGroup>
 
   <ItemGroup>
